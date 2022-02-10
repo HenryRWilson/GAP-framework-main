@@ -9,6 +9,7 @@ from sklearn.decomposition import PCA
 from collections import Counter
 
 """
+hello
 Here we will: 
 - Preprocess generated graphs
 - Implement methods to measure results
